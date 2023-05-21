@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>rodo.blog</title><link>https://rodo.blog/</link><description>Recent content on rodo.blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rodo.blog/index.xml" rel="self" type="application/rss+xml"/><item><title>When Good Enough is not Enough</title><link>https://rodo.blog/p/good-enough/</link><pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate><guid>https://rodo.blog/p/good-enough/</guid><description>&lt;img src="https://rodo.blog/p/good-enough/good-enough.jpg" alt="Featured image of post When Good Enough is not Enough" />&lt;blockquote>
+&lt;p>You have to learn to take it easy on yourself. I know, like, eight million people have told you that already, but hear me out.&lt;/p>
+&lt;p>&amp;ndash; Mark Manson&lt;/p>
+&lt;/blockquote>
+&lt;p>Eight million people and one, if you count that time I read it on &amp;ldquo;The Pragmatic Programmer&amp;rdquo;. Eight million and two, when I read it in &amp;ldquo;The Humble Programmer&amp;rdquo;. But here I am, &amp;ldquo;The Perfectionist Programmer&amp;rdquo;, thinking good-enough software sucks, and perfect software does exist somewhere in the universe, and even worse, I&amp;rsquo;ll be the one to write it.&lt;/p>
+&lt;p>I fell in love with programming in the early 2010s, typing away simple programs that would compile on the first try (after all, I was copying them from the book), and I believed the rest of my journey as a developer would be filled with joy.&lt;/p>
+&lt;p>I learned alone that programming was logical and pure, and that every problem had a straightforward perfect solution.&lt;/p>
+&lt;p>So then, filled with confidence, after having studied for so long, I start coding my newest invention. I fill it with cool features and embrace the task with the mastery of years of programming&amp;hellip; and after the first strike of motivation passes&amp;hellip; Turns out I cannot get it done.&lt;/p>
+&lt;p>It&amp;rsquo;s not a lack of ability or a lack of time. Rather, it&amp;rsquo;s a lack of self-awareness that cause me to fail to deliver this project, to date.&lt;/p>
+&lt;p>Turns out I flew too close to the sun with this one. My vision was too ambitious. I didn&amp;rsquo;t approach the task with humility and tried to create the most perfect, amazing thing I had ever done.&lt;/p>
+&lt;p>I ended up building the application three times, with different technologies. I rewrote the Software Requirements Sheet, prototyped over and over, burnt out, and didn&amp;rsquo;t get a lot done in the end.&lt;/p>
+&lt;p>Truth is, humility is not thinking low of yourself. It&amp;rsquo;s about knowing your limits and struggles. It&amp;rsquo;s more about seeing what you can get done and making it better over time, instead of trying to do the best one from the get-go. Is about doing what you can with what you got, and then making it better slowly.&lt;/p>
+&lt;p>&amp;hellip;I hope this post was good enough.&lt;/p>
+&lt;p>Photo by &lt;a class="link" href="https://unsplash.com/@bloodbrother?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText" target="_blank" rel="noopener"
+>Ilia Zolas&lt;/a> on &lt;a class="link" href="https://unsplash.com/photos/i0WO_RzeB2Y?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText" target="_blank" rel="noopener"
+>Unsplash&lt;/a>&lt;/p>
+&lt;h2 id="related-links">Related links&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://markmanson.net/perfectionism" target="_blank" rel="noopener"
+>Mark Manson &amp;ndash; How to Get Over Perfectionism&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://medium.com/@ashraf.guitouni/entropy-good-enough-software-lessons-from-the-pragmatic-programmer-part-1-c60d1315ef0c" target="_blank" rel="noopener"
+>Ashraf Guitouni &amp;ndash; Entropy and Good Enough Software&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.computer.org/csdl/magazine/so/1995/03/s3079/13rRUzpQPLU" target="_blank" rel="noopener"
+>Ed Yourdon &amp;ndash; When good enough software is best&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://markmanson.net/perfectionism" target="_blank" rel="noopener"
+>Edsger W. Dijkstra &amp;ndash; The Humble Programmer&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Archives</title><link>https://rodo.blog/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://rodo.blog/archives/</guid><description/></item><item><title>Links</title><link>https://rodo.blog/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rodo.blog/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">links&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub is the world&amp;#39;s largest software development platform.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.com&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://www.typescriptlang.org&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">ts-logo-128.jpg&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;code>image&lt;/code> field accepts both local and external images.&lt;/p></description></item><item><title>Search</title><link>https://rodo.blog/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rodo.blog/search/</guid><description/></item></channel></rss>
