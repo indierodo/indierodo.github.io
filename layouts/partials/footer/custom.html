@@ -1,0 +1,40 @@
+<style>
+    /* Inject a nice greeting to the comment box */
+    #cusdis_thread::before {
+        content: "Dear visitor, leave your comments here, they will be greatly appreciated:";
+        color: var(--card-text-color-main);
+        display: inline-block;
+        margin-left: 4px;
+        margin-bottom: 1.5em;
+    }
+    
+    /* Add background padding to the comments box parent to match the blog style */
+    #cusdis_thread {
+        padding: var(--card-padding);
+        background: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+    }
+    
+</style>
+
+<script>
+    const updateCommentBoxStyle = () => {
+        const getCSSVariable = (variable) => {
+            return getComputedStyle(document.body).getPropertyValue(variable);
+        }
+
+        // get the div.root element's style from inside the comments' iframe
+        const iframe = document.getElementById('cusdis_thread').firstChild;
+        const iframeRoot = iframe.contentDocument.getElementById('root');
+        let rootStyle = iframeRoot.firstChild.style;
+                
+        rootStyle.fontFamily = getCSSVariable('--article-font-family');
+        rootStyle.background = getCSSVariable('--card-background');
+    }
+    
+    // do it once, one second after the page loads
+    setTimeout(updateCommentBoxStyle, 1000)
+
+    window.addEventListener("onColorSchemeChange", updateCommentBoxStyle);
+</script>
